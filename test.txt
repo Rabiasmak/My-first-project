@@ -1,1 +1,2 @@
-Hello Github
+This is my first version-controlled project using Git and GitHub
+Initial commit: setup project repository
