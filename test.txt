@@ -1,2 +1,3 @@
 This is my first version-controlled project using Git and GitHub
 Initial commit: setup project repository
+Learning Git step by step
